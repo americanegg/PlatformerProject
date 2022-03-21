@@ -6,11 +6,13 @@ TagManager:
   tags:
   - Coin
   - Floor
+  - Walls
+  - Enemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Platform
   - Water
   - UI
   - 
